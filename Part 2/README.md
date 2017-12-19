@@ -7,7 +7,9 @@ __Columbia University E4571 Personalization: Theory & Application__
 
 + AmazonAppReview.csv: Data file can be accessed through this link https://drive.google.com/file/d/1F0lMOwRTiLBedkMPjjGosH0POF6dgwF5/view?usp=sharing.
 
-+ FM_Model.ipynd: FM Model Implementation and Evaluation based on opensource: FastFM http://ibayer.github.io/fastFM/.
++ FM_Model.ipynd: FM Model Implementation and Evaluation based on Python opensource: fastFM 0.2.10
+
+http://ibayer.github.io/fastFM/.
 
 + Recommendation System for Amazon Apps.pdf: Project Report.
   
