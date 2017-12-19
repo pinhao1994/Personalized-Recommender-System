@@ -9,7 +9,7 @@ __Columbia University E4571 Personalization: Theory & Application__
 
 + FM_Model.ipynd: FM Model Implementation and Evaluation based on Python opensource: fastFM 0.2.10
 
-http://ibayer.github.io/fastFM/.
+  http://ibayer.github.io/fastFM/.
 
 + Recommendation System for Amazon Apps.pdf: Project Report.
   
